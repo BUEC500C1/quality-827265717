@@ -1,6 +1,5 @@
 from convertion import *
 def test():
-    assert convertion(0) == 'Range Fault'
     assert convertion(1) == 'I'
     assert convertion(4) == 'IV'
     assert convertion(5) == 'V'
