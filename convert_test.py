@@ -1,4 +1,4 @@
-from convert import *
+import convert
 def test():
     assert convertion(0) == 'Range Fault'
     assert convertion(1) == 'I'
