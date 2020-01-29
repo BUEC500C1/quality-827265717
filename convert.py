@@ -16,4 +16,4 @@ def conversion(num):
 if __name__ == '__main__':
     test_list=[0, 1, 4, 5, 10, 14, 15, 19, 45, 56, 89, 99, 100, 296, 1024, 3999, 5000]
     for num in test_list:
-        print(num, '==', conversion(num))
+        print(num, '==', conversion(num)) 
