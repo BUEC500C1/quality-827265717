@@ -1,4 +1,4 @@
-import convert as c
+import convertion as c
 def test():
     assert c.convertion(0) == 'Range Fault'
     assert c.convertion(1) == 'I'
