@@ -1,4 +1,4 @@
-from convertion import *
+from convertion import convertion
 def test():
     assert convertion(1) == 'I'
     assert convertion(4) == 'IV'
